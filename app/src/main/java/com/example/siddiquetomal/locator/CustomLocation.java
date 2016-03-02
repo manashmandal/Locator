@@ -3,7 +3,7 @@ package com.example.siddiquetomal.locator;
 import android.location.Location;
 
 /**
- * Created by Siddique Tomal on 3/2/2016.
+ * Created by Manash Mandal
  */
 //Custom Location Class with extra features
 public class CustomLocation {
